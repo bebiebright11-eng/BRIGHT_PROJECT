@@ -1,3 +1,6 @@
+# Admin configuration for Internship Placement System
+# Created by: Mugume Brighton (Group Leader)
+
 from django.contrib import admin
 from django.contrib.auth.admin import UserAdmin
 from .models import User
